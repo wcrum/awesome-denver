@@ -33,8 +33,9 @@ A comprehensive directory of organizations, educational institutions, and commun
 - **Website:** [denverstartupweek.org](https://denverstartupweek.org)
 
 ### Denver ISSA (Information Systems Security Association)
-- **Description:** Professional organization for information security professionals, hosting regular meetings and discussions on cybersecurity, AI security, and emerging technologies.
-- **Website:** [Denver ISSA](https://www.issa-denver.org/)
+- **Description:** A not-for-profit Colorado organization of information security professionals and practitioners. Mission: "Developing and Connecting Denver's Cybersecurity Community." Offers cybersecurity training, networking, career advancement, and CPE credits through monthly chapter meetings, industry-specific SIGs, and annual RMISC conference.
+- **Membership:** Nearly 500 chapter members with 35 annual events and over 500 CPE opportunities
+- **Website:** [Denver ISSA](https://www.denverissa.org/)
 
 ## Educational Institutions
 

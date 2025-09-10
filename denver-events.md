@@ -4,7 +4,7 @@ A comprehensive list of upcoming technology and AI events in Denver, Colorado.
 
 ## Event Categories
 
-![AI](https://img.shields.io/badge/AI-blue?style=flat-square) ![Conference](https://img.shields.io/badge/Conference-green?style=flat-square) ![Meetup](https://img.shields.io/badge/Meetup-orange?style=flat-square) ![Workshop](https://img.shields.io/badge/Workshop-purple?style=flat-square) ![Networking](https://img.shields.io/badge/Networking-yellow?style=flat-square) ![Security](https://img.shields.io/badge/Security-red?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-cyan?style=flat-square) ![Startup](https://img.shields.io/badge/Startup-pink?style=flat-square) ![Education](https://img.shields.io/badge/Education-lightblue?style=flat-square) ![Technology](https://img.shields.io/badge/Technology-blue?style=flat-square) ![Diversity](https://img.shields.io/badge/Diversity-pink?style=flat-square) ![Government](https://img.shields.io/badge/Government-navy?style=flat-square)
+![AI](https://img.shields.io/badge/AI-blue?style=flat-square) ![Conference](https://img.shields.io/badge/Conference-green?style=flat-square) ![Meetup](https://img.shields.io/badge/Meetup-orange?style=flat-square) ![Workshop](https://img.shields.io/badge/Workshop-purple?style=flat-square) ![Competition](https://img.shields.io/badge/Competition-purple?style=flat-square) ![Networking](https://img.shields.io/badge/Networking-yellow?style=flat-square) ![Security](https://img.shields.io/badge/Security-red?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-cyan?style=flat-square) ![Startup](https://img.shields.io/badge/Startup-pink?style=flat-square) ![Education](https://img.shields.io/badge/Education-lightblue?style=flat-square) ![Technology](https://img.shields.io/badge/Technology-blue?style=flat-square) ![Diversity](https://img.shields.io/badge/Diversity-pink?style=flat-square) ![Government](https://img.shields.io/badge/Government-navy?style=flat-square)
 
 ## September 2025
 
@@ -63,6 +63,16 @@ A comprehensive list of upcoming technology and AI events in Denver, Colorado.
 - **Location:** Denver Art Museum, Denver, CO
 - **Description:** The nation's first city-led AI conference returns for its second year, exploring how cities of the future can be powered by AI for good. Keynote speaker: Jennifer Pahlka, former U.S. Deputy Chief Technology Officer.
 - **Website:** [denvergov.org](https://denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Technology-Services/News/2025-DenAI-Summit-Press-Release)
+
+## April 2025
+
+### Mines High School Programming Competition (HSPC)
+![Competition](https://img.shields.io/badge/Competition-purple?style=flat-square) ![Education](https://img.shields.io/badge/Education-lightblue?style=flat-square) ![Technology](https://img.shields.io/badge/Technology-blue?style=flat-square)
+- **Date:** April 26, 2025
+- **Location:** Colorado School of Mines, Golden, CO
+- **Description:** A programming competition for high school students modeled after college-level competitions like ICPC. Features three tracks: in-person beginner, in-person advanced, and open virtual division. Organized by Mines ACM volunteers with funding from CS@Mines.
+- **Registration:** Open Division registration available on Kattis platform
+- **Website:** [mineshspc.com](https://mineshspc.com/)
 
 ## December 2025
 
